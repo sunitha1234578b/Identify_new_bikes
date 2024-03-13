@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="9" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-04T17:28:54 IST" name="Suite" finished-at="2024-03-04T17:35:25 IST" duration-ms="391011">
+    <groups>
+      <group name="regression">
+        <method signature="TestCase1_UpcomingBikeDetails.clickNewBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@5b218417]" name="clickNewBikes" class="TestCase.TestCase1_UpcomingBikeDetails"/>
+        <method signature="TestCase1_UpcomingBikeDetails.clickUpcomingBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@5b218417]" name="clickUpcomingBikes" class="TestCase.TestCase1_UpcomingBikeDetails"/>
+        <method signature="TestCase2_UsedCarsDetails.UsedCarDetails()[pri:0, instance:TestCase.TestCase2_UsedCarsDetails@5032714f]" name="UsedCarDetails" class="TestCase.TestCase2_UsedCarsDetails"/>
+        <method signature="TestCase3_GoogleLogin.verifyLoginPage()[pri:0, instance:TestCase.TestCase3_GoogleLogin@48bb62]" name="verifyLoginPage" class="TestCase.TestCase3_GoogleLogin"/>
+        <method signature="TestCase4_GoogleSignup.verifyLoginPage()[pri:0, instance:TestCase.TestCase4_GoogleSignup@353352b6]" name="verifyLoginPage" class="TestCase.TestCase4_GoogleSignup"/>
+        <method signature="TestCase1_UpcomingBikeDetails.clickNewBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@65987993]" name="clickNewBikes" class="TestCase.TestCase1_UpcomingBikeDetails"/>
+        <method signature="TestCase1_UpcomingBikeDetails.clickUpcomingBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@65987993]" name="clickUpcomingBikes" class="TestCase.TestCase1_UpcomingBikeDetails"/>
+        <method signature="TestCase2_UsedCarsDetails.UsedCarDetails()[pri:0, instance:TestCase.TestCase2_UsedCarsDetails@71075444]" name="UsedCarDetails" class="TestCase.TestCase2_UsedCarsDetails"/>
+        <method signature="TestCase3_GoogleLogin.verifyLoginPage()[pri:0, instance:TestCase.TestCase3_GoogleLogin@4f32a3ad]" name="verifyLoginPage" class="TestCase.TestCase3_GoogleLogin"/>
+        <method signature="TestCase4_GoogleSignup.verifyLoginPage()[pri:0, instance:TestCase.TestCase4_GoogleSignup@6b695b06]" name="verifyLoginPage" class="TestCase.TestCase4_GoogleSignup"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TestCase1_UpcomingBikeDetails.clickNewBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@5b218417]" name="clickNewBikes" class="TestCase.TestCase1_UpcomingBikeDetails"/>
+        <method signature="TestCase1_UpcomingBikeDetails.clickUpcomingBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@5b218417]" name="clickUpcomingBikes" class="TestCase.TestCase1_UpcomingBikeDetails"/>
+        <method signature="TestCase3_GoogleLogin.verifyLoginPage()[pri:0, instance:TestCase.TestCase3_GoogleLogin@48bb62]" name="verifyLoginPage" class="TestCase.TestCase3_GoogleLogin"/>
+        <method signature="TestCase1_UpcomingBikeDetails.clickNewBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@65987993]" name="clickNewBikes" class="TestCase.TestCase1_UpcomingBikeDetails"/>
+        <method signature="TestCase1_UpcomingBikeDetails.clickUpcomingBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@65987993]" name="clickUpcomingBikes" class="TestCase.TestCase1_UpcomingBikeDetails"/>
+        <method signature="TestCase3_GoogleLogin.verifyLoginPage()[pri:0, instance:TestCase.TestCase3_GoogleLogin@4f32a3ad]" name="verifyLoginPage" class="TestCase.TestCase3_GoogleLogin"/>
+      </group> <!-- smoke -->
+      <group name="master">
+        <method signature="TestCase1_UpcomingBikeDetails.clickNewBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@5b218417]" name="clickNewBikes" class="TestCase.TestCase1_UpcomingBikeDetails"/>
+        <method signature="TestCase1_UpcomingBikeDetails.clickUpcomingBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@5b218417]" name="clickUpcomingBikes" class="TestCase.TestCase1_UpcomingBikeDetails"/>
+        <method signature="TestCase2_UsedCarsDetails.UsedCarDetails()[pri:0, instance:TestCase.TestCase2_UsedCarsDetails@5032714f]" name="UsedCarDetails" class="TestCase.TestCase2_UsedCarsDetails"/>
+        <method signature="TestCase3_GoogleLogin.verifyLoginPage()[pri:0, instance:TestCase.TestCase3_GoogleLogin@48bb62]" name="verifyLoginPage" class="TestCase.TestCase3_GoogleLogin"/>
+        <method signature="TestCase4_GoogleSignup.verifyLoginPage()[pri:0, instance:TestCase.TestCase4_GoogleSignup@353352b6]" name="verifyLoginPage" class="TestCase.TestCase4_GoogleSignup"/>
+        <method signature="TestCase1_UpcomingBikeDetails.clickNewBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@65987993]" name="clickNewBikes" class="TestCase.TestCase1_UpcomingBikeDetails"/>
+        <method signature="TestCase1_UpcomingBikeDetails.clickUpcomingBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@65987993]" name="clickUpcomingBikes" class="TestCase.TestCase1_UpcomingBikeDetails"/>
+        <method signature="TestCase2_UsedCarsDetails.UsedCarDetails()[pri:0, instance:TestCase.TestCase2_UsedCarsDetails@71075444]" name="UsedCarDetails" class="TestCase.TestCase2_UsedCarsDetails"/>
+        <method signature="TestCase3_GoogleLogin.verifyLoginPage()[pri:0, instance:TestCase.TestCase3_GoogleLogin@4f32a3ad]" name="verifyLoginPage" class="TestCase.TestCase3_GoogleLogin"/>
+        <method signature="TestCase4_GoogleSignup.verifyLoginPage()[pri:0, instance:TestCase.TestCase4_GoogleSignup@6b695b06]" name="verifyLoginPage" class="TestCase.TestCase4_GoogleSignup"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-03-04T17:28:54 IST" name="ChromeTest" finished-at="2024-03-04T17:31:04 IST" duration-ms="129563">
+      <class name="TestCase.TestCase3_GoogleLogin">
+        <test-method signature="verifyLoginPage()[pri:0, instance:TestCase.TestCase3_GoogleLogin@48bb62]" started-at="2024-03-04T17:30:19 IST" name="verifyLoginPage" finished-at="2024-03-04T17:30:36 IST" duration-ms="17255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+      </class> <!-- TestCase.TestCase3_GoogleLogin -->
+      <class name="TestCase.TestCase1_UpcomingBikeDetails">
+        <test-method is-config="true" signature="invokeBrowser(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@5b218417]" started-at="2024-03-04T17:28:55 IST" name="invokeBrowser" finished-at="2024-03-04T17:29:05 IST" duration-ms="10131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="clickNewBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@5b218417]" started-at="2024-03-04T17:29:05 IST" name="clickNewBikes" finished-at="2024-03-04T17:29:36 IST" duration-ms="31090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickNewBikes -->
+        <test-method signature="clickUpcomingBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@5b218417]" started-at="2024-03-04T17:29:37 IST" name="clickUpcomingBikes" finished-at="2024-03-04T17:29:53 IST" depends-on-methods="TestCase.TestCase1_UpcomingBikeDetails.clickNewBikes" duration-ms="16444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickUpcomingBikes -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@5b218417]" started-at="2024-03-04T17:31:03 IST" name="tearDown" finished-at="2024-03-04T17:31:04 IST" duration-ms="1235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase.TestCase1_UpcomingBikeDetails -->
+      <class name="TestCase.TestCase2_UsedCarsDetails">
+        <test-method signature="UsedCarDetails()[pri:0, instance:TestCase.TestCase2_UsedCarsDetails@5032714f]" started-at="2024-03-04T17:29:53 IST" name="UsedCarDetails" finished-at="2024-03-04T17:30:19 IST" duration-ms="25312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UsedCarDetails -->
+      </class> <!-- TestCase.TestCase2_UsedCarsDetails -->
+      <class name="TestCase.TestCase4_GoogleSignup">
+        <test-method signature="verifyLoginPage()[pri:0, instance:TestCase.TestCase4_GoogleSignup@353352b6]" started-at="2024-03-04T17:30:37 IST" name="verifyLoginPage" finished-at="2024-03-04T17:31:02 IST" duration-ms="25893" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.fail(Assert.java:116)
+at TestCase.TestCase4_GoogleSignup.verifyLoginPage(TestCase4_GoogleSignup.java:37)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+      </class> <!-- TestCase.TestCase4_GoogleSignup -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2024-03-04T17:31:05 IST" name="EdgeTest" finished-at="2024-03-04T17:35:25 IST" duration-ms="260159">
+      <class name="TestCase.TestCase3_GoogleLogin">
+        <test-method signature="verifyLoginPage()[pri:0, instance:TestCase.TestCase3_GoogleLogin@4f32a3ad]" started-at="2024-03-04T17:34:41 IST" name="verifyLoginPage" finished-at="2024-03-04T17:35:15 IST" duration-ms="34119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+      </class> <!-- TestCase.TestCase3_GoogleLogin -->
+      <class name="TestCase.TestCase1_UpcomingBikeDetails">
+        <test-method is-config="true" signature="invokeBrowser(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@65987993]" started-at="2024-03-04T17:31:05 IST" name="invokeBrowser" finished-at="2024-03-04T17:31:54 IST" duration-ms="48642" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="clickNewBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@65987993]" started-at="2024-03-04T17:31:54 IST" name="clickNewBikes" finished-at="2024-03-04T17:32:27 IST" duration-ms="32988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickNewBikes -->
+        <test-method signature="clickUpcomingBikes()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@65987993]" started-at="2024-03-04T17:32:27 IST" name="clickUpcomingBikes" finished-at="2024-03-04T17:33:52 IST" depends-on-methods="TestCase.TestCase1_UpcomingBikeDetails.clickNewBikes" duration-ms="85023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickUpcomingBikes -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TestCase1_UpcomingBikeDetails@65987993]" started-at="2024-03-04T17:35:24 IST" name="tearDown" finished-at="2024-03-04T17:35:25 IST" duration-ms="1242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase.TestCase1_UpcomingBikeDetails -->
+      <class name="TestCase.TestCase2_UsedCarsDetails">
+        <test-method signature="UsedCarDetails()[pri:0, instance:TestCase.TestCase2_UsedCarsDetails@71075444]" started-at="2024-03-04T17:33:52 IST" name="UsedCarDetails" finished-at="2024-03-04T17:34:40 IST" duration-ms="48102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UsedCarDetails -->
+      </class> <!-- TestCase.TestCase2_UsedCarsDetails -->
+      <class name="TestCase.TestCase4_GoogleSignup">
+        <test-method signature="verifyLoginPage()[pri:0, instance:TestCase.TestCase4_GoogleSignup@6b695b06]" started-at="2024-03-04T17:35:15 IST" name="verifyLoginPage" finished-at="2024-03-04T17:35:24 IST" duration-ms="8611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+      </class> <!-- TestCase.TestCase4_GoogleSignup -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
