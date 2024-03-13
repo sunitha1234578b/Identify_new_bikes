@@ -27,7 +27,7 @@
 					<!-- run a xml file in side sure fire plugin-->
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>testing.xml</suiteXmlFile>
+							<suiteXmlFile>master.xml</suiteXmlFile>
 							<!-- multiple xml file can be run-->
 							<!--<suiteXmlFile>grouping.xml</suiteXmlFile> -->
 						</suiteXmlFiles>
